@@ -1,6 +1,5 @@
 
 countArray = [0] * 4
-
 def parseInput(fileStr) :
     countArray[0] = fileStr.count("A")
     countArray[1] = fileStr.count("C")

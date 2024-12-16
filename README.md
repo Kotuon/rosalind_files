@@ -1,5 +1,4 @@
 # Rosalind
-![](https://github.com/Kotuon/super_waddle/blob/main/verletintegration_gif_short.gif)
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -14,7 +13,7 @@ This repo is my work on learning bioinformatics using *Rosalind.info*.
 ## Technology Used
 * Python
 
-## Features
+## Current problems solved
 1. [Counting DNA Nucleotides](https://rosalind.info/problems/dna/)
 
 ## References
