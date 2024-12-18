@@ -17,6 +17,7 @@ This repo is my work on learning bioinformatics using *Rosalind.info*.
 1. [Counting DNA Nucleotides](https://rosalind.info/problems/dna/)
 2. [Transcribing DNA into RNA](https://rosalind.info/problems/rna/)
 3. [Complementing a Strand of DNA](https://rosalind.info/problems/revc/)
+4. [Rabbits and Recurrence Relations](https://rosalind.info/problems/fib/)
 
 ## References
 Primary reference was this [implementation of verlet integration in C.](https://rosalind.info/about/)
