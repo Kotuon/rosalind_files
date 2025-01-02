@@ -21,7 +21,9 @@ def determineProbability(kmn):
 
 
 def main():
-    file = filereader.getFile()
+    fileName = input("Enter file name: ")
+
+    file = filereader.getFile(fileName)
     fileData = file.read().replace("\n", "")
 
     kmn = list(map(int, fileData.split()))
