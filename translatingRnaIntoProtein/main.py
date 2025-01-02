@@ -16,7 +16,7 @@ def main():
 
     outputString = ""
 
-    for i in range(0, len(fileData) - 3, 3):
+    for i in range(0, len(fileData), 3):
         outputString += condonList[fileData[i:i+3]]
 
     print(outputString.replace("O", ""))
