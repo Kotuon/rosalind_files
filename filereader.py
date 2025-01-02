@@ -3,10 +3,8 @@ import os
 import sys
 
 
-def getFile():
+def getFile(fileName):
     directory = os.path.dirname(os.path.abspath(sys.argv[0]))
-    print(directory)
-
-    fileName = input("Enter file name: ")
+    # print(directory)
 
     return open(directory + "\\" + fileName, "r")
