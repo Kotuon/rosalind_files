@@ -11,10 +11,7 @@ def main():
     file = filereader.getFile(fileName)
     fileData = file.read()
 
-    values = fileData.split("\n")
-
-    seq = values[0]
-    sub = values[1]
+    seq, sub = fileData.split()
 
     output = ""
 
