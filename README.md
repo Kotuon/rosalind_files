@@ -21,3 +21,5 @@ This repo is my work on learning bioinformatics using *Rosalind.info*.
 5. [Computing GC Content](https://rosalind.info/problems/gc/)
 6. [Counting Point Mutations](https://rosalind.info/problems/hamm/)
 7. [Mendel's First Law](https://rosalind.info/problems/iprb/)
+8. [Translating RNA into Protein](https://rosalind.info/problems/prot/)
+9. [Finding a Motif in DNA](https://rosalind.info/problems/subs/)
