@@ -4,5 +4,12 @@
 			"path": "."
 		}
     ],
-    "settings": {}
+    "settings": {
+        "autopep8.args": [
+            "--max-line-length=80"
+        ],
+        "python.terminal.launchArgs": [
+            
+        ]
+    }
 }
