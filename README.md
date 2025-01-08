@@ -24,3 +24,4 @@ This repo is my work on learning bioinformatics using *Rosalind.info*.
 8. [Translating RNA into Protein](https://rosalind.info/problems/prot/)
 9. [Finding a Motif in DNA](https://rosalind.info/problems/subs/)
 10. [Consensus and Profile](https://rosalind.info/problems/cons/)
+11. [Mortal Fibonacci Rabbits](https://rosalind.info/problems/fibd/)
