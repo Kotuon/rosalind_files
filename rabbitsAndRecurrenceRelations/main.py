@@ -9,7 +9,7 @@ def fibonacci(x, growth):
     elif x == 2:
         return 1
     else:
-        return fibonacci(x - 1, growth) + 3*(fibonacci(x - 2, growth))
+        return fibonacci(x - 1, growth) + growth*(fibonacci(x - 2, growth))
 
 
 def main():
