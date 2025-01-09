@@ -10,7 +10,8 @@ def parse(file):
     fastaList = []
     for line in file:
         if line[0] == ">":
-            fastaList.append(FastaSequence(line.replace('\n', ''), ""))
+            fastaList.append(FastaSequence(
+                line.replace('\n', '').replace('>', ''), ""))
         else:
             fastaList[-1].sequence += line.replace('\n', '')
 
