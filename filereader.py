@@ -8,3 +8,10 @@ def getFile(fileName):
     # print(directory)
 
     return open(directory + "\\" + fileName, "r")
+
+
+def writeFile(outputString):
+    directory = os.path.dirname(os.path.abspath(sys.argv[0]))
+    outFile = open(directory + "\\" + "output.txt", "w")
+    outFile.write(outputString)
+    outFile.close()
