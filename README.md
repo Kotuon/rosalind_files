@@ -25,3 +25,5 @@ This repo is my work on learning bioinformatics using *Rosalind.info*.
 9. [Finding a Motif in DNA](https://rosalind.info/problems/subs/)
 10. [Consensus and Profile](https://rosalind.info/problems/cons/)
 11. [Mortal Fibonacci Rabbits](https://rosalind.info/problems/fibd/)
+12. [Overlap Graphs](https://rosalind.info/problems/grph/)
+13. [Calculating Expected Offspring](https://rosalind.info/problems/iev/)
